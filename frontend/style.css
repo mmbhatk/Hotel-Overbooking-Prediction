@@ -19,3 +19,7 @@ src: url('./res/fonts/Tr.TTF');
     font-family: logos;
     font-size: 2em;
 }
+
+li {
+    color: #ffffff;
+}
