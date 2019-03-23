@@ -1,0 +1,21 @@
+@font-face
+{
+font-family: final-frontier ;
+src: url('./res/fonts/FINALOLD.TTF');
+}
+
+@font-face
+{
+font-family: logos ;
+src: url('./res/fonts/Tr.TTF');
+}
+
+.starfont {
+    font-family: final-frontier;
+    font-size: 2em;
+}
+
+.logos {
+    font-family: logos;
+    font-size: 2em;
+}
