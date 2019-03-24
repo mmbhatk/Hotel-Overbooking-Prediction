@@ -20,6 +20,47 @@ src: url('./res/fonts/Tr.TTF');
     font-size: 2em;
 }
 
-li {
-    color: #ffffff;
+.container {
+    margin-top: 20px;
+    padding-left: 20%;
+    padding-right: 30px;
+    color: rgb(18, 166, 185);
 }
+
+.black {
+    background-color: rgba(0, 0, 0, 0.541);
+}
+
+table {
+    margin-bottom: 44px;
+    width: 100%;
+    
+  }
+  table:last-child {
+    margin-bottom: 0;
+  }
+  th,
+  td {
+    padding-bottom: 22px;
+    vertical-align: top;
+  }
+  th {
+    padding-right: 45px;
+    text-align: left;
+    width: 20%;
+  }
+  td {
+    width: 30%;
+    padding-left: 10px;
+  }
+  thead {
+    line-height: 44px;
+  }
+  thead th {
+    color: #648880;
+    font-size: 24px;
+  }
+
+  .container2 {
+    padding-left: 10%;
+  }
